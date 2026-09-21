@@ -8,16 +8,21 @@ Struktur file program:
 
 ```text
 Task 1/
-├── InputGenerator.h
-├── InputGenerator.cpp
-├── ScoringRule.h
-├── ScoringRule.cpp
-├── RewardRule.h
-├── RewardRule.cpp
-├── ShopSystem.h
-├── ShopSystem.cpp
-├── RunSession.h
-├── RunSession.cpp
+├── InputGenerator/
+│   ├── InputGenerator.h
+│   └── InputGenerator.cpp
+├── ScoringRule/
+│   ├── ScoringRule.h
+│   └── ScoringRule.cpp
+├── RewardRule/
+│   ├── RewardRule.h
+│   └── RewardRule.cpp
+├── ShopSystem/
+│   ├── ShopSystem.h
+│   └── ShopSystem.cpp
+├── RunSession/
+│   ├── RunSession.h
+│   └── RunSession.cpp
 ├── main.cpp
 └── README.md
 ```

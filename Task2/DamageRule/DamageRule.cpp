@@ -4,7 +4,7 @@ int SimpleDamageRule::CalculateDamage(bool correct)
 {
     if (correct)
     {
-        return 10;
+        return 25;
     }
 
     return 0;

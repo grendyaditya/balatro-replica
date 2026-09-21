@@ -1,7 +1,7 @@
 #ifndef TYPING_SYSTEM_H
 #define TYPING_SYSTEM_H
 
-#include "SnippetGenerator.h"
+#include "../SnippetGenerator/SnippetGenerator.h"
 
 using namespace std;
 

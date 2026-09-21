@@ -6,6 +6,26 @@ Game yang digunakan dalam tugas ini adalah **Type 'n Smash**, yaitu game typing 
 
 Game menggunakan sistem **Best of 3**, sehingga pemain yang memenangkan 2 ronde terlebih dahulu akan memenangkan pertandingan.
 
+Struktur file program:
+
+```text
+Task 2/
+├── SnippetGenerator/
+│   ├── SnippetGenerator.h
+│   └── SnippetGenerator.cpp
+├── TypingSystem/
+│   ├── TypingSystem.h
+│   └── TypingSystem.cpp
+├── DamageRule/
+│   ├── DamageRule.h
+│   └── DamageRule.cpp
+├── GameSession/
+│   ├── GameSession.h
+│   └── GameSession.cpp
+├── main.cpp
+└── README.md
+```
+
 ## B. Core Loop
 
 Core loop yang digunakan dalam Type 'n Smash adalah:

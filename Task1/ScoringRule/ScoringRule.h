@@ -1,7 +1,7 @@
 #ifndef SCORING_RULE_H
 #define SCORING_RULE_H
 
-#include "InputGenerator.h"
+#include "../InputGenerator/InputGenerator.h"
 
 using namespace std;
 

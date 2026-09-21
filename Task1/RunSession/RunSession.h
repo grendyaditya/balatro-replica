@@ -3,10 +3,10 @@
 
 #include <memory>
 
-#include "InputGenerator.h"
-#include "ScoringRule.h"
-#include "RewardRule.h"
-#include "ShopSystem.h"
+#include "../InputGenerator/InputGenerator.h"
+#include "../ScoringRule/ScoringRule.h"
+#include "../RewardRule/RewardRule.h"
+#include "../ShopSystem/ShopSystem.h"
 
 using namespace std;
 

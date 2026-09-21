@@ -1,9 +1,9 @@
 #include <memory>
 
-#include "RunSession.h"
-#include "InputGenerator.h"
-#include "ScoringRule.h"
-#include "RewardRule.h"
+#include "RunSession/RunSession.h"
+#include "InputGenerator/InputGenerator.h"
+#include "ScoringRule/ScoringRule.h"
+#include "RewardRule/RewardRule.h"
 
 using namespace std;
 

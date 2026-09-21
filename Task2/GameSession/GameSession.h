@@ -3,9 +3,9 @@
 
 #include <memory>
 
-#include "SnippetGenerator.h"
-#include "TypingSystem.h"
-#include "DamageRule.h"
+#include "../SnippetGenerator/SnippetGenerator.h"
+#include "../TypingSystem/TypingSystem.h"
+#include "../DamageRule/DamageRule.h"
 
 using namespace std;
 
