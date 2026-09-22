@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
     unique_ptr<IInputGenerator> inputGenerator =
-        make_unique<FixedInputGenerator>();
+    make_unique<RandomInputGenerator>();
 
     unique_ptr<IScoringRule> scoringRule =
         make_unique<SimpleScoringRule>();
